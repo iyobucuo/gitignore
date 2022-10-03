@@ -1,3 +1,7 @@
+# 忽略 idea 编辑器相关文件
+.idea
+
+
 # Compiled class file
 *.class
 
